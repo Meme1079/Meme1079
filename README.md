@@ -12,7 +12,7 @@
 - Youtube: https://www.youtube.com/channel/UCg3HMcfzc6K1Hg5wQe-hHwA
 - Gamebanana: https://gamebanana.com/members/2112708
 - Geometry Dash: https://gdbrowser.com/u/meme10793
-- Roblox: https://www.roblox.com/home
+- Roblox: https://www.roblox.com/users/554345988/profile
 
 ### Contacts 
 ⚠️ **(Warning I may be slow to respond)** ⚠️
