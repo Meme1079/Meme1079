@@ -16,4 +16,4 @@
 
 ### Contacts 
 ⚠️ **(Warning I may be slow to respond)** ⚠️
-- Alt Gmail yesisepic8@gmail.com (Due to the my real name put in)
+- Alt Gmail: yesisepic8@gmail.com (Due to the my real name put in)
