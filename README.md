@@ -17,3 +17,14 @@
 ### Contacts 
 ⚠️ **(Warning I may be slow to respond)** ⚠️
 - Alt Gmail: yesisepic8@gmail.com (Due to the my real name put in)
+
+### Very Important Message
+
+<details><summary>CLICK ME</summary>
+<p>
+
+![image](https://user-images.githubusercontent.com/101881784/179900994-afdaffe8-9144-4025-85bc-90b8d5da45bd.png)
+
+</p>
+</details>
+
