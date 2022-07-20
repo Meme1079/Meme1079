@@ -1,3 +1,5 @@
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meme1079&theme=merko)
+
 ### Everything About me 
 
 - Owner of the NoteSkin Selector
