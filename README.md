@@ -1,6 +1,9 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meme1079&theme=merko)
 
 ### Everything About me 
+I just a guy who like's coding 
+
+### Fun Fact's About me
 
 - Owner of the NoteSkin Selector
 - A random programmer on Friday Night Funkin' (Psych Engine)
