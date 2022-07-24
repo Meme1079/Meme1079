@@ -1,7 +1,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meme1079&theme=merko)
 
 ### Everything About me 
-I just a guy who like's coding 
+Am just a guy who like's coding and charting
 
 ### Fun Fact's About me
 
