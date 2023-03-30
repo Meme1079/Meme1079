@@ -9,7 +9,7 @@ Am just a random guy who like's coding in Psych Engine and charting, now leave m
 - Autistic
 - Good FNF player
 - Regrets creating this account
-- Can code in Lua, BrainF, HTML, CSS, Javascript (I think)
+- Can code in Lua, Python, BrainF, HTML, CSS, Javascript _(I think)_
 
 ### Where you can find me 
 - GitHub: (You are already here)
@@ -22,7 +22,7 @@ Am just a random guy who like's coding in Psych Engine and charting, now leave m
 ### Contacts 
 ⚠️ **(Warning I may be slow to respond)** ⚠️
 - Gmail: yesisepic8@gmail.com
-- Discord: Meme1079#7188
+- Discord: Meme1079#7188 _(Recommended)_
 
 ### Very Important Message
 <details><summary>CLICK ME</summary>
