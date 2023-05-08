@@ -1,6 +1,6 @@
 ### Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meme1079&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meme1079&layout=compact&theme=merko)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meme1079&theme=merko&PAT_1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meme1079&layout=compact&theme=merko&PAT_1)
 
 ### Everything About me 
 Am just a random guy who like's coding in Psych Engine and charting, now leave me alone.
