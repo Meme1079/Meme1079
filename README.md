@@ -3,13 +3,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meme1079&layout=compact&theme=merko&PAT_1)
 
 ### Everything About me 
-Am just a random guy who like's coding in Psych Engine and charting, now leave me alone.
+I'm just some random guy who like's coding stuff and charting in Psych Engine, now leave me alone
 
 ### Fun Fact's About me
 - Autistic
 - Good FNF player
 - Regrets creating this account
-- Can code in Lua, Python, BrainF, HTML, CSS, Javascript _(I think)_
+- Can code in `Lua`, `Python`, `BrainFuck`, `HTML`, `CSS`, `SCSS`, and `Javascript` _(I think)_
 
 ### Where you can find me 
 - GitHub: (You are already here)
