@@ -6,6 +6,7 @@
 I'm just some random guy who like's coding stuff and charting in Psych Engine, now leave me alone
 
 ### Fun Fact's About me
+- Hetoromantic (Asexual)
 - Autistic
 - Good FNF player
 - Regrets creating this account
