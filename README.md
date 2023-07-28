@@ -23,7 +23,7 @@ I'm just some random guy who like's coding stuff and charting in Psych Engine, n
 ### Contacts 
 ⚠️ **(Warning I may be slow to respond)** ⚠️
 - Gmail: yesisepic8@gmail.com
-- Discord: Meme1079#7188 _(Recommended)_
+- Discord: meme1079 _(Recommended)_
 
 ### Very Important Message
 <details><summary>CLICK ME</summary>
