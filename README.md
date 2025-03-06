@@ -3,19 +3,17 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meme1079&layout=compact&theme=merko&PAT_1)
 
 ### Everything About me 
-I'm just some random guy who like's coding stuff and charting in Psych Engine, now leave me alone
+I'm just a guy who likes coding and shit, leave me alone now.
 
-### Fun Fact's About me
+#### Fun Fact's About me
 - Hetoromantic (Asexual)
-- Autistic
-- Good FNF player
-- Regrets creating this account
-- Can code in `Lua`, `Python`, `BrainFuck`, `HTML`, `CSS`, `SCSS`, and `Javascript` _(I think)_
+- High-Functioning Autistic
+- I like Trogonometry
+- I main on Lua, but also can do Haxe, Python, Javascript, and Brainfuck 
 
 ### Where you can find me 
 - GitHub: (You are already here)
-- Friday Night Fansite: https://fnfansite.editorx.io/fridaynightfansite/profile/meme1079/profile
-- Youtube: https://www.youtube.com/channel/UCg3HMcfzc6K1Hg5wQe-hHwA
+- Youtube: https://www.youtube.com/channel/UCg3HMcfzc6K1Hg5wQe-hHwA (Subscribe nerds)
 - Gamebanana: https://gamebanana.com/members/2112708
 - Geometry Dash: https://gdbrowser.com/u/meme10793
 - Roblox: https://www.roblox.com/users/554345988/profile
