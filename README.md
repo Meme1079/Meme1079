@@ -6,7 +6,7 @@
 I'm just a guy who likes coding and shit, leave me alone now.
 
 #### Fun Fact's About me
-- Hetoromantic (Asexual)
+- Heteroromantic (Asexual)
 - High-Functioning Autistic
 - I like Trigonometry
 - I main on Lua, but also can do Haxe, Python, Javascript, and rarely Brainfuck 
