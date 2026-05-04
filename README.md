@@ -8,9 +8,10 @@ Hi I'm just a guy who really likes coding, gaming and whatever shit I'm currentl
 #### Fun Fact's About Me
 - High-Functioning Autistic dumbass
 - Heteroromantic (Asexual)
-- I mainly code in Lua, but I can also code in Javascript, Python, and Haxe.
+- I mainly code in Lua, but I can also code in Javascript, Python, and Haxe
 - I love trigonometry 🤤
-- Greatest Outcome Memories (RIP) player to ever exist _(lying)_.
+- #1 [Sinister Minds](https://www.youtube.com/watch?v=uxYyqmGlp8k) Enjoyer (listen to it, it's amazing)
+- Greatest Outcome Memories (RIP) player to ever exist _(lying)_
 
 #### Where you can find me
 - Youtube: https://www.youtube.com/channel/UCg3HMcfzc6K1Hg5wQe-hHwA (Subscribe nerds)
